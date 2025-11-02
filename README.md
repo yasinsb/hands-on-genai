@@ -5,7 +5,7 @@
 ### genai_clients/
 Client modules for OpenAI and Gemini APIs. Organized by output type:
 - `text/`: Text generation using both providers
-- `structured/`: Structured JSON output with Pydantic models
+- `structured/`: Structured output with Pydantic models
 - `img/`: Image generation (placeholder for future implementation)
 
 ### mcp_integration/

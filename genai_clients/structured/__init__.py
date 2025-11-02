@@ -1,5 +1,5 @@
 """
-JSON generation clients
+Structured output generation clients
 """
 
 from . import gemini
