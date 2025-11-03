@@ -121,3 +121,6 @@ coverage.xml
 *.temp
 .cache/
 
+# Database
+**/my_db/
+

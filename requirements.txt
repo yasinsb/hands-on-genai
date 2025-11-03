@@ -3,3 +3,6 @@ openai>=2.6.1
 python-dotenv>=1.2.1
 fastmcp>=2.11.3
 pydantic>=2.12.3
+qdrant_client[fastembed]>=1.15.1
+ipykernel
+ipywidgets
